@@ -1,0 +1,8 @@
+{
+	"name": "Bring Back The Rss Button",
+	"author": "free-bots",
+	"description": "Brings back the rss button removed with FreshRSS 1.24.0.",
+	"version": 1.0,
+	"entrypoint": "BringBackTheRssButton",
+	"type": "user"
+}
